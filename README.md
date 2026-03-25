@@ -39,12 +39,7 @@ Complete Pandas Portfolio/
 │   ├── Time_Series.ipynb
 │   └── Datasets: Data.csv, time_series_data.csv
 │
-└── Documentation (5 README files)
-    ├── MAIN_README.md (This file)
-    ├── 1_Pandas_Foundations_README.md
-    ├── 2_Data_Cleaning_README.md
-    ├── 3_Mini_Project_README.md
-    └── 4_ADVANCED_README.md
+└── README.md
 ```
 
 ---
